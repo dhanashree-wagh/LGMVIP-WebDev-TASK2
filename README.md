@@ -1,5 +1,5 @@
 # LGMVIP-WebDev-task
-# Getting Started with Create React App
+# task 2 (using react app fetch user data)
 TASK 2 -----------------------------
 this project is made up of react component 
 
